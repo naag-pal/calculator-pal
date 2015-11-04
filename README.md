@@ -1,2 +1,2 @@
 # calculator-pal
-Calculator App - Nodejs printing calculations on the console
+Calculator App - A Node.js Application for printing simple math calculations on the console
