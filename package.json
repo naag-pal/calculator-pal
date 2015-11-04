@@ -1,0 +1,15 @@
+{
+  "name": "calculator-pal",
+  "version": "0.1.2",
+  "description": "Calculator App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "naag-pal",
+  "license": "MIT",
+  "readme": "This is calculator app!"
+}

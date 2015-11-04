@@ -1,0 +1,13 @@
+var calc = require('./calculator.js');
+var a = 25;
+var b = 10;
+var c = calc.Calc.add(a, b);
+console.log('Sum of ' + a + '+' + b + ':', c);
+var d = calc.Calc.sub(a, b);
+console.log('Subtraction of ' + a + '-' + b + ':', d);
+var e = calc.Calc.mul(a, b);
+console.log('Multiplication of ' + a + '*' + b + ':', e);
+var f = calc.Calc.div(a, b);
+console.log('Division of ' + a + '/' + b + ':', f);
+var g = calc.Calc.percent(a, b);
+console.log('Percentile of ' + a + '%' + b + ':', g);
